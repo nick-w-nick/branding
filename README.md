@@ -8,7 +8,7 @@ Here's a little bit about us.
 > 
 > We're a small, friendly community centered around the JavaScript programming language. Our community is open to those who wish to learn the language, as well as those looking to help others.
 > 
-> We're planning to organize regular community events and work with members of out commnnity to create media pertaining to JavaScript.
+> We're planning to organize regular community events and work with members of out community to create media pertaining to JavaScript.
 > 
 ## Licensing
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
